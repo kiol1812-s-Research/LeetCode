@@ -2,20 +2,16 @@
 - Difficulty: 
 - Topics: 
 
-<!-- ## Data Structure
+### Data Structure
 ``` cpp
-``` -->
+```
 
-## Solution
+### Solution
 - runtime beats 
 - memory beats 
 ``` cpp
 ```
 
-## Improving
-<!-- ... -->
-### source code
-- runtime beats 
-- memory beats 
+### Improving
 ``` cpp
 ```
